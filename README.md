@@ -4,7 +4,7 @@ Formulário web simples feito com HTML e CSS
 # Formulário HTML + CSS
 
 Este é um projeto simples de **formulário web** feito para aprendizado de HTML e CSS.  
-O formulário possui campos básicos como nome, email, senha e mensagem, além de validação com o atributo `required`.
+O formulário possui campos básicos como, email, senha e mensagem, além de validação com o atributo `required`.
 
 ## Funcionalidades
 
